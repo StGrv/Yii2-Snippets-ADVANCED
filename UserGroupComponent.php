@@ -67,7 +67,7 @@ class UserGroupComponent extends Component
         }
 
 
-        return self::$userGroup[ $user_id ];
+        return self::$userGroup[ $user_id ]; 
     }
 
 }
